@@ -67,7 +67,3 @@ pip install pandas matplotlib seaborn
 previsao = modelo.predict(dados_novos)
 
 
-
-## 🚨 Prazo e Contato
-
-- **Prazo de Entrega**: 7 dias a partir do recebimento do desafio.
