@@ -63,7 +63,4 @@ Para instalar as bibliotecas necessárias, você pode usar o `pip`, que é o ger
 ```bash
 pip install pandas matplotlib seaborn
 
-# Exemplo de previsão
-previsao = modelo.predict(dados_novos)
-
 
